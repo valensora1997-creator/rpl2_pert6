@@ -1,0 +1,10 @@
+/target
+/.idea
+/.vscode
+*.class
+.DS_Store
+
+/target
+*.class
+target/
+*.class
